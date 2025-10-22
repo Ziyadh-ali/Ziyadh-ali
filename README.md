@@ -42,11 +42,6 @@ Full-Stack MERN Developer focused on building production-ready, maintainable, an
 ### 💡 Passion
 Building clean, efficient, and user-focused web applications.
 
-### 📘 Currently Learning
-- Advanced React Patterns  
-- System Design  
-- Cloud Deployment
-
 ---
 
 <!-- ===========================
