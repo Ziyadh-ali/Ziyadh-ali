@@ -1,39 +1,37 @@
 <!--
 Three professional top-section designs for your README.
-Pick one and paste it at the top of your README.md, or tell me which one to commit.
-All content values are preserved (name, title, location, tagline, skills, passion, currentlyLearning).
-The previous JS object and the old typing animation have been removed and replaced with a more professional set of dynamic/visual cards.
+All are dark-theme optimized to match GitHub's dark mode.
 -->
 
 <!-- ===========================
-     DESIGN A — Professional Hero
-     Two-column hero with dynamic cards (recommended for portfolio)
+     DESIGN A — Professional Hero (Dark Theme)
+     Two-column hero with dynamic cards
      =========================== -->
 <h1 align="center">Hi 👋, I'm Ziyadh Ali</h1>
 <h3 align="center">Full-Stack MERN Developer from Chavakkad, Thrissur, Kerala, India 🇮🇳</h3>
 
 <p align="center">
-  <strong>Turning ideas into interactive, scalable web experiences.</strong>
+  <strong><em>Turning ideas into interactive, scalable web experiences.</em></strong>
 </p>
 
 <p align="center">
-  <!-- Professional dynamic cards as the new "animation" / visual header -->
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ziyadh-ali&show_icons=true&theme=default" />
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ziyadh-ali&theme=default" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyadh-ali&layout=compact&theme=default" />
+  <!-- Professional dynamic cards in dark mode -->
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ziyadh-ali&show_icons=true&theme=tokyonight" />
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=Ziyadh-ali&theme=tokyonight" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyadh-ali&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### About
+### 💫 About
 Full-Stack MERN Developer focused on building production-ready, maintainable, and performant web applications.
 
-### Profile
+### 👤 Profile
 - **Name:** Ziyadh Ali  
 - **Title:** Full-Stack MERN Developer  
 - **Location:** Chavakkad, Thrissur, Kerala, India
 
-### Core Skills
+### ⚙️ Core Skills
 - MERN Stack  
 - Git  
 - REST APIs  
@@ -41,10 +39,10 @@ Full-Stack MERN Developer focused on building production-ready, maintainable, an
 - Postman  
 - Tailwind CSS
 
-### Passion
+### 💡 Passion
 Building clean, efficient, and user-focused web applications.
 
-### Currently Learning
+### 📘 Currently Learning
 - Advanced React Patterns  
 - System Design  
 - Cloud Deployment
@@ -52,43 +50,49 @@ Building clean, efficient, and user-focused web applications.
 ---
 
 <!-- ===========================
-     DESIGN B — Clean Card
-     A compact centered card for a sleek README
+     DESIGN B — Clean Card (Dark Themed)
+     Compact, centered, modern card layout
      =========================== -->
 <div align="center">
 
-  <h2>Ziyadh Ali</h2>
+  <h2 style="color:#00FFFF;">Ziyadh Ali</h2>
   <p><strong>Full-Stack MERN Developer</strong> • Chavakkad, Thrissur, Kerala, India</p>
   <p><em>Turning ideas into interactive, scalable web experiences.</em></p>
 
-  <!-- Single, subtle professional animation card -->
-  <img alt="Profile Overview" src="https://img.shields.io/badge/Stack-MERN-brightgreen?style=for-the-badge&logo=react&logoColor=white" />
+  <!-- Dark-styled badges -->
+  <img alt="Stack" src="https://img.shields.io/badge/Stack-MERN-0A0A0A?style=for-the-badge&logo=react&logoColor=00FFFF" />
   &nbsp;
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Scalable%20Web%20Apps-blue?style=for-the-badge" />
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Scalable%20Web%20Apps-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF" />
 
-  <h4>Skills</h4>
+  <h4>🧠 Skills</h4>
   <p>
     MERN Stack • Git • REST APIs • DSA • Postman • Tailwind CSS • AWS
   </p>
 
-  <h4>Now learning</h4>
-  <p>Advanced React Patterns • System Design </p>
+  <h4>📚 Currently Learning</h4>
+  <p>Advanced React Patterns • System Design • Cloud Deployment</p>
 </div>
 
 ---
 
 <!-- ===========================
-     DESIGN C — Compact Inline
-     Minimal, one-paragraph professional bio for README header
+     DESIGN C — Compact Inline (Dark-Friendly)
+     Minimal paragraph-style header
      =========================== -->
-<h4>Bio</h4>
+<h4 style="color:#00FFFF;">Bio</h4>
 <p>
-  Ziyadh Ali — Full-Stack MERN Developer based in Chavakkad, Thrissur, Kerala, India. Turning ideas into interactive, scalable web experiences. Core skills: MERN Stack, Git, REST APIs, DSA, Postman, Tailwind CSS. Passionate about building clean, efficient, user-focused applications. Currently learning Advanced React Patterns, System Design, and Cloud Deployment.
+  <span style="color:#C0C0C0;">
+  Ziyadh Ali — Full-Stack MERN Developer based in Chavakkad, Thrissur, Kerala, India.  
+  Turning ideas into interactive, scalable web experiences.  
+  Core skills: MERN Stack, Git, REST APIs, DSA, Postman, Tailwind CSS.  
+  Passionate about building clean, efficient, user-focused applications.  
+  Currently learning Advanced React Patterns, System Design, and Cloud Deployment.
+  </span>
 </p>
 
 ---
 
-### Contact & Links (add your preferred links)
-- GitHub: https://github.com/Ziyadh-ali
-- LinkedIn: (add LinkedIn URL)
-- Email: (add email)
+### 🔗 Contact & Links
+- **GitHub:** [Ziyadh-ali](https://github.com/Ziyadh-ali)  
+- **LinkedIn:** [ziyadh-ali](https://www.linkedin.com/in/ziyadh-ali/)  
+- **Email:** ziyadhali.dev@gmail.com
