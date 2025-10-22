@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ziyadh Ali</h1>
+<h3 align="center">Full-Stack MERN Developer from Chavakkad, Thrissur, Kerala, India 🇮🇳</h3>
 
-```
-**Ziyadh-ali/Ziyadh-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Full+Stack+MERN+Developer;Passionate+about+Building+Scalable+Web+Apps;Lifelong+Learner+%26+Open+Source+Contributor" alt="Typing SVG">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-```
+### 💫 About Me
+```js
+const ziyadh = {
+  name: "Ziyadh Ali",
+  title: "Full-Stack MERN Developer",
+  location: "Chavakkad, Thrissur, Kerala, India",
+  tagline: "Turning ideas into interactive, scalable web experiences.",
+  skills: ["MERN Stack", "Git", "REST APIs", "DSA", "Postman", "Tailwind CSS"],
+  passion: "Building clean, efficient, and user-focused web applications.",
+  currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Deployment"]
+};
