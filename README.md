@@ -63,9 +63,6 @@ Building clean, efficient, and user-focused web applications.
   <p>
     MERN Stack • Git • REST APIs • DSA • Postman • Tailwind CSS • AWS
   </p>
-
-  <h4>📚 Currently Learning</h4>
-  <p>Advanced React Patterns • System Design • Cloud Deployment</p>
 </div>
 
 ---
